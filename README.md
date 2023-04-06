@@ -1,0 +1,2 @@
+# INTELLIGENT-FIRE-DETECTION-FOR-NUCLEAR-FAMILIES---A-STEP-TOWARS-SMART-HOMES
+"Intelligent Fire Alarms for Nuclear Families- A Step Towards Smart Homes" aims to elevate user's safety concerns by keeping the user informed about any changes in the user's house.  The alarm will be installed at the residences, and the user will be contacted or alerted anytime there is smoke or fire of a particular range. 
